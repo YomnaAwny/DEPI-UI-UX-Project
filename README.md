@@ -12,15 +12,29 @@ Eman Elsayed Ahmed
 Yasmen  
 Mahmoud Hasan Mahmoud Amara  
 
-Work Plan:
+# Work Plan:
 
-Roles & Responsibilities
+# Team Roles & Responsibilities
 
-KPIs:
+| Team Member | Role | Responsibilities |
+|------------|------|------------------|
+| Yomna Awny | Team Leader & UI/UX Designer | Project coordination, task management, design review, maintaining consistency, UI/UX design contributions |
+| All Team Members | UI/UX Designers | User research, persona creation, wireframing, prototyping, UI design, usability testing, design improvements | 
 
-Instructor:  
+
+# Key Performance Indicators (KPIs)
+
+- 90% completion of planned project deliverables.
+- xx% user satisfaction. (yet to be tested)
+- Completion of user research and persona development before the design phase.
+- Creation of wireframes and prototypes for all required user flows.
+- Consistent application of design system components across all screens.
+- Implementation of feedback from usability reviews in each iteration.
+- On-time submission of all project phases.
+
+# Instructor:  
 Hossam El-Gazzar
 
-Project Files:  
+# Project Files:  
 UX Research: https://www.figma.com/board/NAK1J7uoQUeYmefCv2auus/UX-Zero-Waste-14-11-2026-YA?node-id=0-1&t=omMW2tMbAesdSAFS-1  
 UI Design: https://www.figma.com/design/zMT4cHhFOZVKh5YJ3LD1i7/UI-Zero-Waste-21-11-2026-YA?node-id=0-1&t=2gl5zOvAqa8tf5dD-1
