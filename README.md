@@ -14,6 +14,13 @@ Mahmoud Hasan Mahmoud Amara
 
 # Work Plan:
 
+| Week | Date | Stage |
+|------------|------|------------------|
+| Week 1 | Nov 7 - Nov 14 | Dicovery stage |
+| Week 2 | Nov 14 - Nov 21 | Define stage & Ideat stage |
+| Week 3 | Nov 21 - Nov 28 | Prototype stage |
+| Week 4 | Nov 28 - Dec 3 | Final delivery |
+
 # Team Roles & Responsibilities
 
 | Team Member | Role | Responsibilities |
